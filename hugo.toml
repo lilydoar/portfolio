@@ -1,7 +1,7 @@
-baseURL = 'https://lilydoar.github.io/portfolio/'
+baseURL = 'https://lilydoar.github.io/archive/'
 languageCode = 'en-us'
 title = 'Lily Baginski Doar'
-theme = 'portfolio-theme'
+theme = 'achive-theme'
 
 [menus]
   [[menus.main]]
