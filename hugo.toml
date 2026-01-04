@@ -1,7 +1,7 @@
 baseURL = 'https://lilydoar.github.io/archive/'
 languageCode = 'en-us'
 title = 'Lily Baginski Doar'
-theme = 'achive-theme'
+theme = 'archive'
 
 [menus]
   [[menus.main]]
@@ -19,3 +19,7 @@ theme = 'achive-theme'
 
 [params]
   description = 'Personal archive'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
